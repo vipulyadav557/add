@@ -3,10 +3,10 @@
 int main () {
     int a ;
     int b ;
-     int product =a*b;
+     int sum =a*b;
     printf("enter the value of a\n");
     printf("enter the value of b\n");
-    printf("the value of product is %f \n" , product);
+    printf("the value of sum is %f \n" , sum);
     return 0;
 }
 
